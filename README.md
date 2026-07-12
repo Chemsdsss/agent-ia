@@ -1,5 +1,7 @@
 # LIA – Agent Codeur IA
 
+Bug ? discord "pas2profil"
+
 LIA est un assistant IA en ligne de commande qui **code, teste et corrige** automatiquement vos projets.  
 Il peut aussi rechercher sur le web, gérer GitHub, lire l’actualité, et bien plus.
 
