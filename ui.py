@@ -36,7 +36,7 @@ def print_logo():
   ███████╗██║██║  ██║
   ╚══════╝╚═╝╚═╝  ╚═╝
 {Colors.RESET}
-{Colors.ORANGE}  Agent IA – par chems{Colors.RESET}
+{Colors.ORANGE}  Agent IA – par pas2profil{Colors.RESET}
 """
     print(logo)
 
