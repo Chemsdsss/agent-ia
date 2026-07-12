@@ -1,0 +1,22 @@
+{
+  "_comment": "api groq in https://console.groq.com/ | token github in https://github.com/settings/tokens ",
+  "api_keys": [
+    "",
+    "",
+    ""
+  ],
+  "model": "llama-3.3-70b-versatile",
+  "fallback_models": [
+    "llama-3.1-8b-instant",
+    "mixtral-8x7b-32768"
+  ],
+  "max_iterations": 15,
+  "max_tokens": 2048,
+  "workspace_dir": "",
+  "backup_dir": "",
+  "history_file": "conversation.json",
+  "groq_api_base": "https://api.groq.com/openai/v1",
+  "verbose": false,
+  "auto_plan": true,
+  "github_token": ""
+}
